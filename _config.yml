@@ -1,0 +1,28 @@
+name: CalixCollective
+favicon: null
+layout_spectrum: 0.6120047583244741
+typography_spectrum: 0.5066219833679497
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.29357972205616534
+  lightness: 0.3705884423106909
+  saturation: 0.547139880945906
+  rhythmicContrast: 0.9351677887607366
+purpose: []
